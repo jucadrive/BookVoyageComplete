@@ -11,7 +11,7 @@ import org.springframework.util.MultiValueMap;
 @NoArgsConstructor
 public class AladinBookSearchReq {
 
-    private String TTBKey = "ttbdhzlehzl011603001";
+    private String TTBKey = "ttbkey";
     private String Query = "";
     private String QueryType = "Keyword";
     private String SearchTarget = "Book";
