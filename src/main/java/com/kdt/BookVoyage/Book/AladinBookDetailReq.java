@@ -13,7 +13,7 @@ import org.springframework.util.MultiValueMap;
 @Slf4j
 public class AladinBookDetailReq {
 
-    private String TTBKey = "ttbdhzlehzl011603001";
+    private String TTBKey = "ttbkey";
     private String itemIdType = "ISBN";
     private String ItemId = "";
     private String[] OptResults =

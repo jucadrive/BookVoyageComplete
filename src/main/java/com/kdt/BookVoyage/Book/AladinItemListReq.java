@@ -11,7 +11,7 @@ import org.springframework.util.MultiValueMap;
 @AllArgsConstructor
 public class AladinItemListReq {
 
-    private String ttbkey = "ttbdhzlehzl011603001";
+    private String ttbkey = "ttbkey";
     private String QueryType = "";
     private int MaxResults = 200;
     private int start = 1;

@@ -4,6 +4,11 @@ build/
 !**/src/main/**/build/
 !**/src/test/**/build/
 
+# api key
+AladinBookDetailReq.java
+AladinBookSearchReq.java
+AladinItemListReq.java
+
 ### important ###
 application-secret.properties
 SecretKey.java
